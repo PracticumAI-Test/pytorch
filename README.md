@@ -1,1 +1,2 @@
-Pytorch workshop.
+
+[FastBook GitHub](https://github.com/fastai/fastbook)
